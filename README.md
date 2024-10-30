@@ -27,5 +27,9 @@ results.
 
 ![Screenshot 2024-10-30 175235](https://github.com/user-attachments/assets/0968b007-ff75-4422-8dbc-49f8b4ff4eed)
 
+## Algorithm 
+
+![Screenshot 2024-10-30 175449](https://github.com/user-attachments/assets/952ec586-49cf-4483-a2c8-8640bf8add2e)
+
 
 
