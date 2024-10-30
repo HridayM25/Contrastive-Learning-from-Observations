@@ -1,4 +1,4 @@
-# ContrastiveImitationLearning
+# Contrastive Learning from Observations
 Experiments on Contrastive State Only Imitation Learning with Reducing Paradigm Gap.
 
 ## Report Reference
