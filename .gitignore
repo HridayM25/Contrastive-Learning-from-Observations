@@ -1,0 +1,8 @@
+models/
+modelsBC/
+runs/
+runsBC/
+wandb/
+
+__pycache__/
+*.py[cod]
