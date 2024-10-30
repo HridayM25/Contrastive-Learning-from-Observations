@@ -14,11 +14,11 @@ discriminator to provide the reward signal to guide the training. However, this 
 for a robust discriminator - whose training in representative AIL papers is done
 using a simple binary objective, and thus may not learn good and smooth feature
 representations. Motivated by previous methods which aim to learn a representation
-space through contrastive learning, we propose Contrastive Adversarial Learning
-from Observations (CALfO), which novelly uses the state transitions occupancy
+space through contrastive learning, we propose **Contrastive Adversarial Learning
+from Observations (CALfO)**, which novelly uses the state transitions occupancy
 to learn good representations. Identifying the change to an LfO paradigm, we also
 attempt to bridge the gap between our work and prior methods in the LfD field by
-minimizing their inverse dynamics disagreement. We utilize a reward based on
+**minimizing their inverse dynamics disagreement**. We utilize a reward based on
 the learned representations and terms used for reducing this gap. We evaluate our
 method on OpenAI’s Gym and Mujoco Environments and present the quantitative
 results.
